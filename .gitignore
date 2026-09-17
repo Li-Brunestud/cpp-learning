@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build output
+x64/
+**/x64/
+Debug/
+Release/
+**/Debug/
+**/Release/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+# Visual Studio user-specific files
+*.user

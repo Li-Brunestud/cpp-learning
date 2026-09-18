@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="day04-loops/day04-loops.vcxproj" Id="b887c964-8c1b-4c78-8ec2-73293e674461" />
+</Solution>

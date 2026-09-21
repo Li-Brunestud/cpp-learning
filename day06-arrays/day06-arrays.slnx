@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="day05-functions/day05-functions.vcxproj" Id="8a6c06f2-0260-4130-b24c-1242f4ce2dac" />
+  <Project Path="day06-arrays/day06-arrays.vcxproj" Id="1f6e9b3e-8eb5-4d1a-bbb5-12cf66899d83" />
 </Solution>

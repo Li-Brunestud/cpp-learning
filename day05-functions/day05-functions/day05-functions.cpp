@@ -61,17 +61,22 @@ void adjustScore(int& score)
     else
         return;
 }
+int multiply(int a, int b)
+{
+    return a * b;
+}
+double multiply(double a, double b)
+{
+    return a * b;
+}
+void printMessage(string message = "Hello")
+{
+    cout << message << endl;
+}
 int main()
 {
-    int a = -5;
-    int b = 120;
-    int c = 85;
-
-    adjustScore(a);
-    adjustScore(b);
-    adjustScore(c);
-
-    cout << a << " " << b << " " << c << endl;
+    printMessage("Welcome");
+    printMessage();
 }
 void printResult(int score)
 {

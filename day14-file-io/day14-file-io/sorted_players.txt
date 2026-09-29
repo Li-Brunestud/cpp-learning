@@ -1,0 +1,4 @@
+Alice 120
+Leo 100
+Bob 95
+Li 80

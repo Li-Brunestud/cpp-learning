@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="day17-hash-containers/day17-hash-containers.vcxproj" Id="0bda1d73-72de-44a0-a2b8-58f5f23f1adf" />
+</Solution>
